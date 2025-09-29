@@ -31,7 +31,6 @@ def cluster_and_get_bookings():
     bookings_df = bookings.alias('b')
     prices_df = prices.alias('pr')
 
-    # Derive cluster keys
     products_with_cluster = products_df.withColumn('arrival_month', month(col('p.arrival_date'))) \
                                       .withColumn('arrival_year', year(col('p.arrival_date')))
 
@@ -42,14 +41,12 @@ def cluster_and_get_bookings():
         col('p.room_type'), col('p.beds'), col('p.grade'), col('p.private_pool')
     )
 
-    # Join with bookings - match on product_id from the CSV data, not Django's auto id
     joined_with_bookings = products_clustered.join(
         bookings_df, 
         col('p.product_id') == col('b.product_id'), 
         how='left'
     )
 
-    # Join with prices - match on product_id from the CSV data
     joined_with_prices = joined_with_bookings.join(
         prices_df,
         col('p.product_id') == col('pr.product_id'),
@@ -129,8 +126,6 @@ def create_product_building_relationships():
         .config("spark.jars", "./pricing/ETL/postgresql-42.6.0.jar") \
         .getOrCreate()
 
-    # If you have building-product relationships in your CSV files
-    # Read the building-product mapping
     try:
         building_product_df = spark.read.csv("./pricing/ETL/Data/buildings.csv", header=True, inferSchema=True)
         building_product_df = building_product_df.withColumnRenamed('Building','building_name') \
@@ -148,19 +143,10 @@ def create_product_building_relationships():
             col('id').alias('building_id')
         )
 
-        # Update products table with building_id if you want to add this relationship
-        # This would require modifying your Django model to include building as ForeignKey
+
         print("Building-Product relationships identified:")
         product_building_mapping.show(10)
         
-        # Uncomment if you want to store this mapping in a separate table
-        # window = Window.orderBy(col('product_id'))
-        # product_building_mapping = product_building_mapping.withColumn('id', row_number().over(window))
-        # product_building_mapping.write.mode('overwrite').jdbc(
-        #     DB_CONFIG['url'], 
-        #     "pricing_productbuilding",  
-        #     properties=DB_CONFIG['properties']
-        # )
 
     except Exception as e:
         print(f"No building-product relationship file found or error: {e}")
