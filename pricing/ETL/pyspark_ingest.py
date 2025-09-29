@@ -79,7 +79,6 @@ def main(input_dir):
     window = Window.orderBy(col('name'))
     buildings_df = buildings_df.withColumn('id', row_number().over(window))
     
-    # Select only the fields that exist in Django model (Building only has id and name)
     buildings_df = buildings_df.select('id', 'name').distinct()
     
     buildings_df.write.mode('overwrite').jdbc(
@@ -104,7 +103,7 @@ def main(input_dir):
     
     prices_df.write.mode('overwrite').jdbc(
         DB_CONFIG['url'], 
-        "pricing_price",  # Django table name
+        "pricing_price", 
         properties=DB_CONFIG['properties']
     )
 
@@ -112,7 +111,7 @@ def main(input_dir):
     print("Data ingestion completed with Django-compatible schema!")
 
 if __name__ == '__main__':
-    input_dir = "./pricing/ETL/Data/" # s3://bucket/input or /local/path
+    input_dir = "./pricing/ETL/Data/"
     main(input_dir)
     
 
