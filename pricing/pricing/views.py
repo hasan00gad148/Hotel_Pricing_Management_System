@@ -92,10 +92,8 @@ class RecommendationListView(generics.ListAPIView):
                 )
                 queryset = queryset.filter(product_id__in=matching_product_ids)
 
-        # Building filter - for now skip since Product doesn't have building relationship
-        # You could implement this if you create the building-product relationship
+
         if building:
-            # This would work if you have building as ForeignKey in Product model
             # matching_product_ids = list(
             #     Product.objects.filter(building__name=building).values_list('product_id', flat=True)
             # )
