@@ -1,0 +1,501 @@
+Id,Room Name,Arrival Date,No. of Beds,Room Type,Grade,Private Pool
+1,Single 001,2024-11-23,1,Single,1,False
+2,Double Room 002,2024-05-05,2,Double Room,2,True
+3,Presidential 003,2024-12-12,3,Presidential,5,False
+4,Single 004,2024-01-17,1,Single,1,True
+5,Presidential 005,2024-04-29,5,Presidential,1,True
+6,Presidential 006,2024-11-28,4,Presidential,2,False
+7,Suite 007,2024-10-28,2,Suite,7,True
+8,Deluxe 008,2024-12-23,3,Deluxe,3,True
+9,Suite 009,2024-04-20,2,Suite,1,False
+10,Suite 010,2024-02-19,3,Suite,5,False
+11,Deluxe 011,2024-01-23,2,Deluxe,4,True
+12,Suite 012,2024-10-09,4,Suite,5,False
+13,Double Room 013,2024-10-22,2,Double Room,6,True
+14,Double Room 014,2024-01-24,2,Double Room,7,False
+15,Double Room 015,2024-02-10,2,Double Room,7,True
+16,Suite 016,2024-07-13,3,Suite,6,False
+17,Suite 017,2024-03-24,3,Suite,2,False
+18,Single 018,2024-12-25,1,Single,5,True
+19,Double Room 019,2024-09-30,2,Double Room,2,False
+20,Suite 020,2024-07-13,4,Suite,6,True
+21,Suite 021,2024-12-16,2,Suite,2,True
+22,Deluxe 022,2024-06-10,3,Deluxe,1,True
+23,Suite 023,2024-10-17,2,Suite,6,False
+24,Deluxe 024,2024-07-21,2,Deluxe,3,True
+25,Presidential 025,2024-05-06,5,Presidential,3,False
+26,Deluxe 026,2024-10-25,3,Deluxe,2,True
+27,Deluxe 027,2024-09-17,2,Deluxe,7,True
+28,Double Room 028,2024-02-26,2,Double Room,6,True
+29,Deluxe 029,2024-12-14,2,Deluxe,4,False
+30,Deluxe 030,2024-11-01,3,Deluxe,5,True
+31,Single 031,2024-12-14,1,Single,6,False
+32,Suite 032,2024-11-24,2,Suite,3,False
+33,Deluxe 033,2024-03-21,2,Deluxe,6,False
+34,Double Room 034,2024-09-13,2,Double Room,5,True
+35,Suite 035,2024-11-16,4,Suite,5,True
+36,Suite 036,2024-03-19,2,Suite,5,True
+37,Suite 037,2024-11-02,3,Suite,1,True
+38,Suite 038,2024-07-04,2,Suite,1,True
+39,Single 039,2024-10-17,1,Single,1,False
+40,Presidential 040,2024-02-05,3,Presidential,2,False
+41,Double Room 041,2024-10-08,2,Double Room,3,False
+42,Presidential 042,2024-04-18,5,Presidential,6,True
+43,Suite 043,2024-12-31,3,Suite,6,False
+44,Presidential 044,2024-08-12,4,Presidential,1,True
+45,Single 045,2024-04-25,1,Single,3,True
+46,Presidential 046,2024-10-28,3,Presidential,5,True
+47,Single 047,2024-01-04,1,Single,6,True
+48,Single 048,2024-04-27,1,Single,1,False
+49,Presidential 049,2024-02-06,3,Presidential,3,False
+50,Presidential 050,2024-04-19,3,Presidential,6,False
+51,Deluxe 051,2024-05-04,3,Deluxe,2,True
+52,Deluxe 052,2024-02-19,3,Deluxe,4,False
+53,Single 053,2024-08-27,1,Single,6,True
+54,Deluxe 054,2024-02-01,3,Deluxe,7,True
+55,Double Room 055,2024-05-07,2,Double Room,2,False
+56,Deluxe 056,2024-03-12,2,Deluxe,3,False
+57,Single 057,2024-05-07,1,Single,4,True
+58,Presidential 058,2024-01-26,3,Presidential,1,True
+59,Deluxe 059,2024-03-26,3,Deluxe,4,True
+60,Single 060,2024-07-24,1,Single,2,False
+61,Deluxe 061,2024-01-02,3,Deluxe,7,False
+62,Deluxe 062,2024-05-26,3,Deluxe,2,True
+63,Double Room 063,2024-05-31,2,Double Room,1,True
+64,Single 064,2024-06-09,1,Single,1,False
+65,Presidential 065,2024-09-14,3,Presidential,1,True
+66,Single 066,2024-04-05,1,Single,5,True
+67,Double Room 067,2024-12-11,2,Double Room,4,True
+68,Double Room 068,2024-10-18,2,Double Room,5,True
+69,Single 069,2024-11-13,1,Single,4,False
+70,Double Room 070,2024-05-13,2,Double Room,6,False
+71,Suite 071,2024-05-02,3,Suite,2,False
+72,Suite 072,2024-08-22,2,Suite,1,False
+73,Presidential 073,2024-11-14,3,Presidential,1,True
+74,Suite 074,2024-09-16,2,Suite,3,True
+75,Suite 075,2024-05-05,3,Suite,2,False
+76,Suite 076,2024-10-05,4,Suite,7,True
+77,Presidential 077,2024-12-07,4,Presidential,6,True
+78,Suite 078,2024-03-09,2,Suite,1,True
+79,Suite 079,2024-05-19,4,Suite,2,False
+80,Suite 080,2024-04-14,4,Suite,4,False
+81,Single 081,2024-01-27,1,Single,6,False
+82,Single 082,2024-05-21,1,Single,1,False
+83,Suite 083,2024-03-07,2,Suite,6,False
+84,Deluxe 084,2024-10-09,2,Deluxe,1,True
+85,Double Room 085,2024-12-19,2,Double Room,5,True
+86,Presidential 086,2024-07-08,5,Presidential,2,False
+87,Single 087,2024-03-06,1,Single,3,False
+88,Suite 088,2024-01-21,2,Suite,6,True
+89,Single 089,2024-12-07,1,Single,3,False
+90,Double Room 090,2024-11-13,2,Double Room,2,True
+91,Deluxe 091,2024-03-31,2,Deluxe,2,False
+92,Double Room 092,2024-07-29,2,Double Room,3,True
+93,Single 093,2024-12-25,1,Single,4,True
+94,Double Room 094,2024-08-28,2,Double Room,2,False
+95,Suite 095,2024-06-28,2,Suite,2,True
+96,Double Room 096,2024-12-03,2,Double Room,4,False
+97,Single 097,2024-05-22,1,Single,7,False
+98,Presidential 098,2024-06-28,4,Presidential,6,False
+99,Single 099,2024-01-15,1,Single,3,True
+100,Suite 100,2024-10-24,2,Suite,1,False
+101,Suite 101,2024-06-25,3,Suite,5,True
+102,Presidential 102,2024-07-16,3,Presidential,3,True
+103,Deluxe 103,2024-12-28,2,Deluxe,5,True
+104,Deluxe 104,2024-07-05,2,Deluxe,6,False
+105,Suite 105,2024-11-15,4,Suite,7,True
+106,Presidential 106,2024-06-02,4,Presidential,6,False
+107,Deluxe 107,2024-06-16,3,Deluxe,5,True
+108,Deluxe 108,2024-04-08,3,Deluxe,6,True
+109,Presidential 109,2024-11-11,4,Presidential,4,True
+110,Suite 110,2024-06-04,2,Suite,4,False
+111,Deluxe 111,2024-08-26,3,Deluxe,6,True
+112,Deluxe 112,2024-09-18,2,Deluxe,6,True
+113,Presidential 113,2024-05-25,5,Presidential,6,False
+114,Double Room 114,2024-02-17,2,Double Room,6,False
+115,Double Room 115,2024-04-25,2,Double Room,2,True
+116,Double Room 116,2024-01-24,2,Double Room,4,True
+117,Deluxe 117,2024-08-21,2,Deluxe,6,False
+118,Deluxe 118,2024-09-10,2,Deluxe,2,True
+119,Deluxe 119,2024-02-24,2,Deluxe,2,False
+120,Presidential 120,2024-01-26,3,Presidential,7,True
+121,Double Room 121,2024-08-21,2,Double Room,7,False
+122,Presidential 122,2024-12-07,5,Presidential,5,False
+123,Presidential 123,2024-08-14,5,Presidential,5,False
+124,Deluxe 124,2024-10-07,2,Deluxe,6,False
+125,Suite 125,2024-08-18,2,Suite,7,False
+126,Deluxe 126,2024-09-23,2,Deluxe,3,False
+127,Suite 127,2024-02-09,2,Suite,3,False
+128,Presidential 128,2024-06-12,3,Presidential,2,True
+129,Deluxe 129,2024-04-28,2,Deluxe,6,True
+130,Deluxe 130,2024-02-02,3,Deluxe,3,False
+131,Single 131,2024-07-31,1,Single,2,False
+132,Presidential 132,2024-07-18,5,Presidential,1,False
+133,Single 133,2024-09-01,1,Single,3,False
+134,Deluxe 134,2024-07-18,2,Deluxe,4,True
+135,Deluxe 135,2024-05-19,3,Deluxe,1,False
+136,Deluxe 136,2024-06-21,2,Deluxe,7,False
+137,Presidential 137,2024-03-06,5,Presidential,1,False
+138,Presidential 138,2024-10-30,5,Presidential,1,True
+139,Deluxe 139,2024-11-25,2,Deluxe,7,False
+140,Single 140,2024-04-03,1,Single,3,False
+141,Double Room 141,2024-06-16,2,Double Room,4,False
+142,Deluxe 142,2024-06-21,3,Deluxe,7,False
+143,Single 143,2024-05-09,1,Single,4,True
+144,Single 144,2024-10-03,1,Single,3,True
+145,Single 145,2024-11-28,1,Single,7,True
+146,Double Room 146,2024-01-16,2,Double Room,2,True
+147,Double Room 147,2024-11-14,2,Double Room,2,True
+148,Single 148,2024-08-30,1,Single,5,True
+149,Suite 149,2024-08-26,3,Suite,2,True
+150,Suite 150,2024-03-24,2,Suite,5,True
+151,Presidential 151,2024-06-08,5,Presidential,4,False
+152,Single 152,2024-04-11,1,Single,5,True
+153,Suite 153,2024-02-22,4,Suite,5,True
+154,Single 154,2024-10-16,1,Single,3,False
+155,Suite 155,2024-12-04,2,Suite,5,False
+156,Deluxe 156,2024-01-07,3,Deluxe,1,False
+157,Deluxe 157,2024-07-04,2,Deluxe,4,True
+158,Suite 158,2024-09-24,4,Suite,7,False
+159,Deluxe 159,2024-08-26,3,Deluxe,3,True
+160,Suite 160,2024-02-14,3,Suite,2,False
+161,Presidential 161,2024-10-18,5,Presidential,4,False
+162,Deluxe 162,2024-01-15,3,Deluxe,2,False
+163,Suite 163,2024-04-18,3,Suite,3,False
+164,Suite 164,2024-11-01,4,Suite,1,True
+165,Double Room 165,2024-02-13,2,Double Room,6,False
+166,Presidential 166,2024-09-07,3,Presidential,6,False
+167,Deluxe 167,2024-11-26,3,Deluxe,7,True
+168,Suite 168,2024-02-17,2,Suite,4,True
+169,Presidential 169,2024-06-05,4,Presidential,4,False
+170,Presidential 170,2024-08-05,4,Presidential,3,False
+171,Suite 171,2024-05-18,3,Suite,2,True
+172,Suite 172,2024-04-08,2,Suite,6,True
+173,Double Room 173,2024-04-08,2,Double Room,6,False
+174,Presidential 174,2024-05-21,5,Presidential,5,False
+175,Double Room 175,2024-02-21,2,Double Room,3,True
+176,Double Room 176,2024-07-03,2,Double Room,3,True
+177,Presidential 177,2024-12-28,3,Presidential,3,True
+178,Presidential 178,2024-01-28,4,Presidential,6,True
+179,Deluxe 179,2024-11-22,2,Deluxe,7,True
+180,Suite 180,2024-10-20,3,Suite,4,False
+181,Double Room 181,2024-06-23,2,Double Room,1,False
+182,Single 182,2024-09-01,1,Single,7,True
+183,Deluxe 183,2024-07-24,2,Deluxe,5,True
+184,Double Room 184,2024-03-18,2,Double Room,7,False
+185,Double Room 185,2024-02-13,2,Double Room,1,False
+186,Presidential 186,2024-11-06,5,Presidential,2,False
+187,Deluxe 187,2024-08-18,3,Deluxe,7,False
+188,Presidential 188,2024-06-05,5,Presidential,1,True
+189,Double Room 189,2024-04-16,2,Double Room,3,True
+190,Double Room 190,2024-03-21,2,Double Room,2,True
+191,Single 191,2024-03-21,1,Single,4,False
+192,Presidential 192,2024-12-18,4,Presidential,3,True
+193,Suite 193,2024-04-28,4,Suite,3,False
+194,Double Room 194,2024-02-06,2,Double Room,3,True
+195,Single 195,2024-08-05,1,Single,5,True
+196,Double Room 196,2024-11-27,2,Double Room,3,True
+197,Single 197,2024-02-06,1,Single,2,False
+198,Presidential 198,2024-10-31,4,Presidential,4,True
+199,Suite 199,2024-08-27,4,Suite,4,False
+200,Presidential 200,2024-09-13,4,Presidential,4,True
+201,Single 201,2024-11-02,1,Single,4,False
+202,Suite 202,2024-11-05,2,Suite,1,True
+203,Presidential 203,2024-12-11,5,Presidential,1,False
+204,Single 204,2024-10-22,1,Single,7,True
+205,Presidential 205,2024-08-28,5,Presidential,4,False
+206,Presidential 206,2024-04-02,4,Presidential,6,False
+207,Deluxe 207,2024-02-16,3,Deluxe,4,False
+208,Single 208,2024-06-13,1,Single,7,True
+209,Deluxe 209,2024-06-17,3,Deluxe,3,False
+210,Single 210,2024-10-08,1,Single,4,True
+211,Suite 211,2024-06-10,3,Suite,1,False
+212,Single 212,2024-09-20,1,Single,6,False
+213,Single 213,2024-07-30,1,Single,2,False
+214,Deluxe 214,2024-11-14,3,Deluxe,7,True
+215,Suite 215,2024-04-14,4,Suite,2,False
+216,Deluxe 216,2024-08-12,2,Deluxe,1,True
+217,Double Room 217,2024-12-29,2,Double Room,3,True
+218,Deluxe 218,2024-10-09,2,Deluxe,2,True
+219,Single 219,2024-08-24,1,Single,6,True
+220,Suite 220,2024-09-12,4,Suite,6,False
+221,Deluxe 221,2024-07-31,3,Deluxe,2,False
+222,Double Room 222,2024-10-09,2,Double Room,4,True
+223,Presidential 223,2024-11-02,5,Presidential,2,True
+224,Deluxe 224,2024-05-21,3,Deluxe,7,False
+225,Suite 225,2024-01-02,4,Suite,3,False
+226,Deluxe 226,2024-03-17,3,Deluxe,3,False
+227,Presidential 227,2024-10-09,4,Presidential,4,False
+228,Double Room 228,2024-04-06,2,Double Room,5,False
+229,Deluxe 229,2024-04-29,2,Deluxe,3,False
+230,Deluxe 230,2024-12-27,3,Deluxe,6,True
+231,Single 231,2024-09-10,1,Single,2,False
+232,Deluxe 232,2024-02-21,2,Deluxe,5,False
+233,Double Room 233,2024-01-08,2,Double Room,4,True
+234,Deluxe 234,2024-02-08,3,Deluxe,3,False
+235,Single 235,2024-11-28,1,Single,7,False
+236,Presidential 236,2024-12-11,4,Presidential,3,False
+237,Single 237,2024-10-04,1,Single,5,True
+238,Suite 238,2024-04-30,2,Suite,6,True
+239,Single 239,2024-08-10,1,Single,7,True
+240,Double Room 240,2024-08-15,2,Double Room,6,False
+241,Single 241,2024-01-15,1,Single,3,True
+242,Suite 242,2024-05-30,3,Suite,4,True
+243,Presidential 243,2024-05-05,4,Presidential,5,True
+244,Double Room 244,2024-03-28,2,Double Room,1,False
+245,Double Room 245,2024-11-13,2,Double Room,4,True
+246,Deluxe 246,2024-04-28,3,Deluxe,4,False
+247,Single 247,2024-12-07,1,Single,7,False
+248,Presidential 248,2024-05-27,3,Presidential,1,False
+249,Presidential 249,2024-06-25,4,Presidential,6,False
+250,Suite 250,2024-12-19,3,Suite,7,False
+251,Deluxe 251,2024-04-11,3,Deluxe,1,True
+252,Presidential 252,2024-07-14,4,Presidential,5,False
+253,Suite 253,2024-12-24,2,Suite,7,False
+254,Single 254,2024-05-20,1,Single,5,True
+255,Deluxe 255,2024-11-06,3,Deluxe,7,True
+256,Suite 256,2024-11-06,2,Suite,6,True
+257,Suite 257,2024-11-13,4,Suite,7,True
+258,Single 258,2024-11-17,1,Single,6,True
+259,Deluxe 259,2024-06-07,2,Deluxe,5,False
+260,Single 260,2024-03-08,1,Single,3,False
+261,Double Room 261,2024-07-31,2,Double Room,2,True
+262,Suite 262,2024-10-03,4,Suite,5,False
+263,Suite 263,2024-03-25,3,Suite,7,False
+264,Single 264,2024-06-22,1,Single,4,True
+265,Double Room 265,2024-03-13,2,Double Room,7,False
+266,Suite 266,2024-10-12,2,Suite,7,False
+267,Suite 267,2024-01-08,4,Suite,1,False
+268,Suite 268,2024-07-07,4,Suite,4,False
+269,Double Room 269,2024-02-25,2,Double Room,4,True
+270,Presidential 270,2024-11-13,4,Presidential,5,True
+271,Single 271,2024-11-27,1,Single,6,False
+272,Suite 272,2024-12-24,4,Suite,4,True
+273,Single 273,2024-03-12,1,Single,1,False
+274,Single 274,2024-09-09,1,Single,1,True
+275,Double Room 275,2024-10-02,2,Double Room,4,False
+276,Presidential 276,2024-07-08,4,Presidential,5,True
+277,Single 277,2024-07-31,1,Single,7,False
+278,Deluxe 278,2024-11-11,3,Deluxe,1,False
+279,Deluxe 279,2024-04-21,3,Deluxe,2,False
+280,Suite 280,2024-02-20,4,Suite,6,False
+281,Deluxe 281,2024-02-01,3,Deluxe,2,True
+282,Single 282,2024-08-20,1,Single,6,True
+283,Presidential 283,2024-11-24,3,Presidential,1,False
+284,Double Room 284,2024-05-04,2,Double Room,7,True
+285,Presidential 285,2024-02-05,3,Presidential,5,True
+286,Suite 286,2024-04-29,2,Suite,7,True
+287,Double Room 287,2024-05-21,2,Double Room,2,False
+288,Single 288,2024-03-30,1,Single,6,True
+289,Single 289,2024-03-08,1,Single,3,True
+290,Suite 290,2024-10-28,2,Suite,2,False
+291,Double Room 291,2024-01-27,2,Double Room,6,False
+292,Single 292,2024-09-26,1,Single,6,True
+293,Deluxe 293,2024-08-31,3,Deluxe,5,True
+294,Presidential 294,2024-08-19,3,Presidential,5,True
+295,Presidential 295,2024-12-03,4,Presidential,4,True
+296,Deluxe 296,2024-02-01,3,Deluxe,4,True
+297,Deluxe 297,2024-09-08,2,Deluxe,1,False
+298,Double Room 298,2024-11-07,2,Double Room,1,True
+299,Presidential 299,2024-05-20,5,Presidential,5,False
+300,Presidential 300,2024-07-14,5,Presidential,3,False
+301,Presidential 301,2024-09-15,4,Presidential,1,True
+302,Presidential 302,2024-12-01,5,Presidential,7,True
+303,Deluxe 303,2024-08-08,2,Deluxe,4,False
+304,Deluxe 304,2024-08-20,3,Deluxe,6,True
+305,Deluxe 305,2024-06-09,3,Deluxe,6,False
+306,Double Room 306,2024-07-10,2,Double Room,6,False
+307,Single 307,2024-02-04,1,Single,7,True
+308,Deluxe 308,2024-02-17,2,Deluxe,6,False
+309,Presidential 309,2024-03-07,3,Presidential,5,False
+310,Single 310,2024-12-09,1,Single,4,False
+311,Deluxe 311,2024-12-06,2,Deluxe,3,False
+312,Single 312,2024-06-29,1,Single,5,True
+313,Deluxe 313,2024-03-20,2,Deluxe,7,True
+314,Presidential 314,2024-06-28,4,Presidential,1,False
+315,Double Room 315,2024-10-20,2,Double Room,7,False
+316,Presidential 316,2024-10-14,5,Presidential,6,True
+317,Suite 317,2024-11-07,2,Suite,2,False
+318,Suite 318,2024-12-25,3,Suite,3,True
+319,Double Room 319,2024-04-02,2,Double Room,5,False
+320,Double Room 320,2024-02-05,2,Double Room,6,True
+321,Presidential 321,2024-02-16,3,Presidential,4,False
+322,Suite 322,2024-08-20,2,Suite,3,False
+323,Presidential 323,2024-06-15,5,Presidential,1,True
+324,Double Room 324,2024-03-20,2,Double Room,7,True
+325,Single 325,2024-12-11,1,Single,3,False
+326,Deluxe 326,2024-12-04,3,Deluxe,5,False
+327,Suite 327,2024-07-31,2,Suite,7,True
+328,Deluxe 328,2024-06-25,2,Deluxe,3,False
+329,Suite 329,2024-09-26,2,Suite,2,False
+330,Single 330,2024-11-02,1,Single,1,True
+331,Double Room 331,2024-06-03,2,Double Room,7,True
+332,Suite 332,2024-05-10,3,Suite,1,True
+333,Deluxe 333,2024-09-11,2,Deluxe,2,False
+334,Double Room 334,2024-09-29,2,Double Room,5,False
+335,Deluxe 335,2024-02-06,2,Deluxe,4,True
+336,Single 336,2024-08-23,1,Single,7,False
+337,Deluxe 337,2024-10-21,3,Deluxe,6,False
+338,Single 338,2024-05-28,1,Single,4,True
+339,Double Room 339,2024-06-15,2,Double Room,7,False
+340,Suite 340,2024-12-19,2,Suite,4,True
+341,Deluxe 341,2024-05-04,3,Deluxe,5,True
+342,Suite 342,2024-07-21,4,Suite,3,True
+343,Double Room 343,2024-06-19,2,Double Room,1,True
+344,Presidential 344,2024-09-28,3,Presidential,7,False
+345,Double Room 345,2024-06-28,2,Double Room,2,True
+346,Suite 346,2024-03-15,2,Suite,2,True
+347,Single 347,2024-12-01,1,Single,2,False
+348,Presidential 348,2024-08-25,5,Presidential,4,False
+349,Suite 349,2024-11-17,2,Suite,4,True
+350,Deluxe 350,2024-08-28,3,Deluxe,7,False
+351,Single 351,2024-10-29,1,Single,3,True
+352,Deluxe 352,2024-06-07,3,Deluxe,1,True
+353,Suite 353,2024-07-07,2,Suite,6,True
+354,Presidential 354,2024-11-10,5,Presidential,4,False
+355,Presidential 355,2024-10-24,5,Presidential,1,False
+356,Double Room 356,2024-10-19,2,Double Room,3,False
+357,Double Room 357,2024-09-13,2,Double Room,1,False
+358,Suite 358,2024-02-22,4,Suite,1,True
+359,Double Room 359,2024-01-21,2,Double Room,6,False
+360,Presidential 360,2024-08-12,5,Presidential,5,True
+361,Suite 361,2024-07-05,3,Suite,4,False
+362,Presidential 362,2024-06-22,3,Presidential,7,False
+363,Suite 363,2024-02-03,2,Suite,5,False
+364,Suite 364,2024-05-25,4,Suite,7,True
+365,Single 365,2024-06-19,1,Single,5,True
+366,Suite 366,2024-06-28,4,Suite,6,False
+367,Presidential 367,2024-03-07,5,Presidential,1,False
+368,Deluxe 368,2024-10-13,3,Deluxe,7,True
+369,Presidential 369,2024-12-09,3,Presidential,6,False
+370,Suite 370,2024-09-17,2,Suite,3,False
+371,Double Room 371,2024-04-02,2,Double Room,3,False
+372,Double Room 372,2024-04-08,2,Double Room,2,True
+373,Suite 373,2024-02-09,2,Suite,5,True
+374,Suite 374,2024-12-04,4,Suite,2,False
+375,Double Room 375,2024-03-19,2,Double Room,2,True
+376,Single 376,2024-08-12,1,Single,4,False
+377,Double Room 377,2024-12-12,2,Double Room,4,False
+378,Double Room 378,2024-08-17,2,Double Room,5,True
+379,Deluxe 379,2024-06-07,2,Deluxe,3,False
+380,Suite 380,2024-08-24,3,Suite,5,False
+381,Double Room 381,2024-03-23,2,Double Room,7,True
+382,Single 382,2024-05-08,1,Single,6,False
+383,Presidential 383,2024-07-09,3,Presidential,6,True
+384,Single 384,2024-05-25,1,Single,7,True
+385,Deluxe 385,2024-05-19,2,Deluxe,7,False
+386,Double Room 386,2024-02-16,2,Double Room,7,False
+387,Single 387,2024-06-27,1,Single,4,True
+388,Presidential 388,2024-07-21,4,Presidential,2,False
+389,Suite 389,2024-02-11,2,Suite,1,False
+390,Suite 390,2024-02-20,2,Suite,2,True
+391,Deluxe 391,2024-05-26,2,Deluxe,7,False
+392,Presidential 392,2024-08-17,3,Presidential,1,True
+393,Double Room 393,2024-05-11,2,Double Room,7,True
+394,Presidential 394,2024-10-07,5,Presidential,4,True
+395,Double Room 395,2024-05-27,2,Double Room,3,True
+396,Double Room 396,2024-01-25,2,Double Room,4,False
+397,Single 397,2024-02-02,1,Single,7,False
+398,Presidential 398,2024-11-01,3,Presidential,6,True
+399,Suite 399,2024-03-14,3,Suite,1,False
+400,Presidential 400,2024-05-03,4,Presidential,2,True
+401,Suite 401,2024-09-25,2,Suite,5,True
+402,Deluxe 402,2024-07-18,2,Deluxe,6,False
+403,Suite 403,2024-07-10,4,Suite,1,False
+404,Suite 404,2024-02-04,2,Suite,6,True
+405,Suite 405,2024-10-24,2,Suite,1,False
+406,Suite 406,2024-10-06,4,Suite,2,False
+407,Deluxe 407,2024-12-22,2,Deluxe,7,True
+408,Deluxe 408,2024-02-02,2,Deluxe,3,True
+409,Double Room 409,2024-01-23,2,Double Room,1,False
+410,Presidential 410,2024-06-07,4,Presidential,7,False
+411,Single 411,2024-05-09,1,Single,7,True
+412,Suite 412,2024-05-26,2,Suite,7,False
+413,Single 413,2024-05-19,1,Single,7,False
+414,Deluxe 414,2024-08-11,3,Deluxe,4,False
+415,Deluxe 415,2024-04-05,3,Deluxe,3,False
+416,Deluxe 416,2024-02-12,2,Deluxe,4,True
+417,Suite 417,2024-10-06,3,Suite,1,True
+418,Suite 418,2024-06-16,3,Suite,4,False
+419,Deluxe 419,2024-03-26,3,Deluxe,4,True
+420,Presidential 420,2024-06-29,4,Presidential,3,True
+421,Deluxe 421,2024-02-08,3,Deluxe,5,True
+422,Double Room 422,2024-01-16,2,Double Room,7,False
+423,Double Room 423,2024-01-18,2,Double Room,1,True
+424,Suite 424,2024-11-26,3,Suite,4,True
+425,Double Room 425,2024-11-05,2,Double Room,6,False
+426,Suite 426,2024-07-08,3,Suite,7,True
+427,Double Room 427,2024-10-20,2,Double Room,5,False
+428,Suite 428,2024-07-22,4,Suite,3,True
+429,Single 429,2024-02-28,1,Single,6,True
+430,Presidential 430,2024-09-12,4,Presidential,5,True
+431,Suite 431,2024-05-14,4,Suite,4,True
+432,Suite 432,2024-11-09,4,Suite,4,True
+433,Double Room 433,2024-03-03,2,Double Room,7,True
+434,Double Room 434,2024-08-19,2,Double Room,6,False
+435,Suite 435,2024-02-14,4,Suite,3,True
+436,Presidential 436,2024-10-08,4,Presidential,3,True
+437,Double Room 437,2024-12-30,2,Double Room,7,False
+438,Double Room 438,2024-09-17,2,Double Room,1,True
+439,Double Room 439,2024-03-12,2,Double Room,7,False
+440,Suite 440,2024-01-14,4,Suite,5,False
+441,Presidential 441,2024-08-27,3,Presidential,5,True
+442,Suite 442,2024-02-03,3,Suite,6,False
+443,Deluxe 443,2024-09-26,3,Deluxe,7,True
+444,Suite 444,2024-03-05,4,Suite,1,False
+445,Presidential 445,2024-08-26,4,Presidential,2,True
+446,Deluxe 446,2024-03-07,2,Deluxe,7,True
+447,Double Room 447,2024-09-22,2,Double Room,3,True
+448,Suite 448,2024-03-23,4,Suite,2,False
+449,Suite 449,2024-09-22,2,Suite,3,True
+450,Presidential 450,2024-11-21,4,Presidential,2,False
+451,Presidential 451,2024-11-10,3,Presidential,5,True
+452,Presidential 452,2024-10-30,3,Presidential,2,False
+453,Single 453,2024-10-15,1,Single,7,True
+454,Single 454,2024-02-11,1,Single,6,False
+455,Double Room 455,2024-11-29,2,Double Room,7,False
+456,Single 456,2024-11-12,1,Single,4,False
+457,Suite 457,2024-11-24,3,Suite,2,False
+458,Deluxe 458,2024-06-01,2,Deluxe,6,True
+459,Deluxe 459,2024-03-21,3,Deluxe,4,False
+460,Suite 460,2024-04-14,4,Suite,2,False
+461,Suite 461,2024-06-12,3,Suite,2,False
+462,Presidential 462,2024-09-20,3,Presidential,3,True
+463,Single 463,2024-08-26,1,Single,3,False
+464,Double Room 464,2024-05-06,2,Double Room,1,True
+465,Deluxe 465,2024-05-28,3,Deluxe,2,True
+466,Presidential 466,2024-06-16,5,Presidential,3,True
+467,Deluxe 467,2024-03-22,3,Deluxe,4,False
+468,Single 468,2024-09-11,1,Single,1,False
+469,Deluxe 469,2024-09-15,2,Deluxe,2,False
+470,Single 470,2024-01-25,1,Single,3,False
+471,Deluxe 471,2024-11-01,3,Deluxe,5,True
+472,Deluxe 472,2024-02-25,2,Deluxe,3,False
+473,Suite 473,2024-07-25,2,Suite,4,True
+474,Presidential 474,2024-10-18,3,Presidential,3,False
+475,Deluxe 475,2024-02-07,3,Deluxe,7,False
+476,Presidential 476,2024-11-15,3,Presidential,2,True
+477,Suite 477,2024-07-20,3,Suite,5,False
+478,Double Room 478,2024-03-14,2,Double Room,5,False
+479,Single 479,2024-09-13,1,Single,1,True
+480,Suite 480,2024-03-11,3,Suite,5,False
+481,Presidential 481,2024-03-17,5,Presidential,2,False
+482,Suite 482,2024-11-09,2,Suite,4,False
+483,Suite 483,2024-10-30,4,Suite,7,False
+484,Presidential 484,2024-12-28,4,Presidential,4,True
+485,Suite 485,2024-07-07,4,Suite,1,False
+486,Suite 486,2024-10-25,4,Suite,7,True
+487,Deluxe 487,2024-11-01,3,Deluxe,6,True
+488,Presidential 488,2024-01-27,4,Presidential,2,False
+489,Double Room 489,2024-03-16,2,Double Room,1,True
+490,Single 490,2024-04-07,1,Single,4,False
+491,Double Room 491,2024-08-02,2,Double Room,4,True
+492,Presidential 492,2024-07-29,5,Presidential,4,True
+493,Double Room 493,2024-12-27,2,Double Room,5,True
+494,Suite 494,2024-10-14,4,Suite,4,False
+495,Double Room 495,2024-06-09,2,Double Room,4,False
+496,Suite 496,2024-10-06,4,Suite,7,False
+497,Deluxe 497,2024-11-08,2,Deluxe,2,False
+498,Suite 498,2024-10-12,2,Suite,3,False
+499,Double Room 499,2024-12-26,2,Double Room,6,False
+500,Deluxe 500,2024-06-11,3,Deluxe,5,False
